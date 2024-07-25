@@ -7,4 +7,4 @@ Stack:
 - BEM
 - VITE
 
-[Демо]((https://19alinka.github.io/pet-planet/)
+[Демо](https://19alinka.github.io/pet-planet/)
